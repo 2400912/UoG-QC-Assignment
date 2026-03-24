@@ -1,3 +1,0 @@
-Student name: Wanting Liu
-Student ID: 2961179L
-Status: Finished plain and attacker, set and pass the tests
